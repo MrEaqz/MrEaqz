@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrEaqz</h1>
-<h3 align="center">A passionate frontend/backed web developer from France</h3>
+<h3 align="center">A passionate frontend/backend developer based in France</h3>
 
 - 🔭 I’m currently working at **InzPok** as BackEnd Developer
 
