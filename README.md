@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm MrEaqz</h1>
 <h3 align="center">A passionate frontend/backed web developer from France</h3>
 
-- 🔭 I’m currently working on **Control**
+- 🔭 I’m currently working at **InzPok** as BackEnd Developer
 
 - 👨‍💻 All of my projects are available at [https://kylian-zaimi.fr/](https://kylian-zaimi.fr/)
+- 👨‍💻 and [https://gitlab.com/MrEaqz/](https://gitlab.com/MrEaqz)
 
 
 <h3 align="left">Languages and Tools:</h3>
