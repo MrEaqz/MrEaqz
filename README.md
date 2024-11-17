@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm MrEaqz</h1>
 <h3 align="center">A passionate frontend/backend developer based in France</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrEaqz)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working at **Geolink Expansion** as Lead Developper
 
 - 👨‍💻 and [https://gitlab.com/MrEaqz/](https://gitlab.com/MrEaqz)
