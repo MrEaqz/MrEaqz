@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm MrEaqz</h1>
 <h3 align="center">A passionate frontend/backend developer based in South of France</h3>
 - 🔭 I’m currently working at <b></b>Geolink Expansion</b> as Lead Developper
+<br>
 - 👨‍💻 [https://gitlab.com/MrEaqz/](https://gitlab.com/MrEaqz)
 <br><br><br>
 
